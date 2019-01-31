@@ -1,2 +1,2 @@
 # STA414
-Statistical Learning
+STA414 - Statistical Learning
